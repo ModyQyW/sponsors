@@ -24,6 +24,7 @@ jobs:
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: ModyQyW
+          SPONSORKIT_PATREON_TOKEN: ${{ secrets.SPONSORKIT_PATREON_TOKEN }}
       - uses: EndBug/add-and-commit@v9
         with:
           message: "chore: update sponsors"
