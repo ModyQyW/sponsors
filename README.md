@@ -16,6 +16,62 @@ Your sponsorship means a lot to me. It will help me actively maintain my project
 
 May the world be a better and more interesting place, and may all of you and I become the people we want to be. 💖
 
+<table>
+  <tr>
+    <th>
+      <a target="_blank" href="https://www.paypal.com/paypalme/wurui7">Paypal</a>
+    </th>
+    <th>
+      <a target="_blank" href="https://www.patreon.com/user?u=84888011">Patreon</a>
+    </th>
+    <th>
+      <a target="_blank" href="https://afdian.net/a/ModyQyW">爱发电 Afdian</a>
+    </th>
+  </tr>
+  <tr>
+    <th>支付宝 Alipay</th>
+    <th>微信 Wechat</th>
+    <th>QQ</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/alipay.jpeg" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
+    </td>
+    <td>
+      <img src="./assets/wechat.jpeg" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
+    </td>
+    <td>
+      <img src="./assets/qq.jpeg" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
+    </td>
+  </tr>
+  <tr>
+    <th colspan="3">美团外卖 Meituan</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/meituan-web.png" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
+    </td>
+    <td>
+      <img src="./assets/meituan-wechat-miniprogram.jpg" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
+    </td>
+    <td>
+      <a target="_blank" href="https://tb.j5k6.com/13iYW">短链</a>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="3">京东商城 Jingdong</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/jingdong-web.png" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
+    </td>
+    <td>
+      <a target="_blank" href="https://tb.j5k6.com/13iUS">短链</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.svg">
     <img src="https://cdn.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.svg"/>
