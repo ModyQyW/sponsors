@@ -18,7 +18,7 @@ export default defineConfig({
     },
     {
       title: "Sponsors",
-      monthlyDollars: 9.85,
+      monthlyDollars: 19.69,
       preset: presets.medium,
     },
     {
@@ -33,7 +33,7 @@ export default defineConfig({
     },
     {
       title: "Special Sponsors",
-      monthlyDollars: 78.78,
+      monthlyDollars: 157.54,
       preset: {
         avatar: {
           size: 105,
