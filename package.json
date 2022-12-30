@@ -2,7 +2,7 @@
   "name": "sponsors",
   "version": "0.0.0",
   "scripts": {
-    "build": "sponsorkit"
+    "build": "sponsorkit -- --force"
   },
   "repository": {
     "type": "git",
