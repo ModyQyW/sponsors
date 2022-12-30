@@ -20,7 +20,7 @@
   "homepage": "https://github.com/ModyQyW/sponsors#readme",
   "devDependencies": {
     "@tsconfig/node18": "^1.0.1",
-    "sponsorkit": "github:ModyQyW/sponsorkit#dist",
+    "sponsorkit": "^0.7.0",
     "typescript": "^4.9.4"
   }
 }
