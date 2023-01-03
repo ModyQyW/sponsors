@@ -55,7 +55,7 @@ May the world be a better and more interesting place, and may all of you and I b
       <img src="./assets/meituan-wechat-miniprogram.jpg" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
     </td>
     <td>
-      <a target="_blank" href="https://tb.j5k6.com/13iYW">短链</a>
+      <a target="_blank" href="https://tb.j5k6.com/16Ka5">短链</a>
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ May the world be a better and more interesting place, and may all of you and I b
       <img src="./assets/jingdong-web.png" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
     </td>
     <td>
-      <a target="_blank" href="https://tb.j5k6.com/13iUS">短链</a>
+      <a target="_blank" href="https://tb.j5k6.com/16Kqy">短链</a>
     </td>
     <td></td>
   </tr>
