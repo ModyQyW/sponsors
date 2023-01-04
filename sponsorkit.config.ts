@@ -6,8 +6,8 @@ import {
   guessProviders,
   SponsorkitConfig,
   Provider,
-  Sponsorship,
 } from "sponsorkit";
+import customSponsors from "./custom-sponsors";
 
 const config: SponsorkitConfig = {
   github: {
@@ -75,7 +75,6 @@ export default defineConfig({
     // last one
     if (provider === providers.at(-1)?.name) {
       // add more sponsors like wechat, alipay, etc.
-      const customSponsors: Sponsorship[] = [];
       return [...sponsors, ...customSponsors];
     }
   },
