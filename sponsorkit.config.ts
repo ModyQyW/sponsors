@@ -1,6 +1,15 @@
-import { defineConfig, presets } from "sponsorkit";
+import {
+  defineConfig,
+  loadConfig,
+  presets,
+  resolveProviders,
+  guessProviders,
+  SponsorkitConfig,
+  Provider,
+  Sponsorship,
+} from "sponsorkit";
 
-export default defineConfig({
+const config: SponsorkitConfig = {
   github: {
     login: "ModyQyW",
     type: "user",
@@ -49,4 +58,25 @@ export default defineConfig({
       },
     },
   ],
+  fallbackAvatar: "https://placekitten.com/256/256",
+};
+
+let providers: Provider[];
+
+export default defineConfig({
+  ...config,
+  onSponsorsFetched: async (sponsors, provider) => {
+    if (!providers) {
+      const loadedConfig = await loadConfig();
+      providers = resolveProviders(
+        loadedConfig.providers || guessProviders(loadedConfig)
+      );
+    }
+    // last one
+    if (provider === providers.at(-1)?.name) {
+      // add more sponsors like wechat, alipay, etc.
+      const customSponsors: Sponsorship[] = [];
+      return [...sponsors, ...customSponsors];
+    }
+  },
 });
