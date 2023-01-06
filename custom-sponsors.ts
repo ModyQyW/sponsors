@@ -1,5 +1,7 @@
 import { Sponsorship } from "sponsorkit";
 
+const convertCNYToUSD = (cny: number) => cny / 6.5;
+
 const sponsors: Sponsorship[] = [
   {
     sponsor: {
@@ -9,7 +11,7 @@ const sponsors: Sponsorship[] = [
       avatarUrl: "https://avatars.githubusercontent.com/u/35653404",
       linkUrl: "https://github.com/wangzecn",
     },
-    monthlyDollars: 1.25,
+    monthlyDollars: convertCNYToUSD(8.12),
     privacyLevel: "PUBLIC",
     tierName: "Wechat",
     createdAt: "2023-01-06T17:22:01+08:00",
