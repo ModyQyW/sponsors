@@ -2,7 +2,8 @@
   "name": "sponsors",
   "version": "0.0.0",
   "scripts": {
-    "build": "sponsorkit --force"
+    "build": "sponsorkit --force",
+    "check:deps": "ncu --dep dev,optional,prod,packageManager"
   },
   "repository": {
     "type": "git",
