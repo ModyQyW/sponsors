@@ -1,28 +1,29 @@
 {
   "name": "sponsors",
   "version": "0.0.0",
-  "scripts": {
-    "build": "sponsorkit --force",
-    "check:deps": "ncu --dep dev,optional,prod,packageManager"
+  "homepage": "https://github.com/ModyQyW/sponsors#readme",
+  "bugs": {
+    "url": "https://github.com/ModyQyW/sponsors/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ModyQyW/sponsors.git"
   },
+  "license": "MIT",
   "author": {
     "name": "ModyQyW",
     "email": "wurui-dev@foxmail.com",
     "url": "https://modyqyw.github.io"
   },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ModyQyW/sponsors/issues"
+  "scripts": {
+    "build": "sponsorkit --force",
+    "check:deps": "ncu --dep dev,optional,prod,packageManager"
   },
-  "homepage": "https://github.com/ModyQyW/sponsors#readme",
   "devDependencies": {
     "@tsconfig/node18": "^1.0.1",
     "@types/node": "^18.11.18",
     "sponsorkit": "^0.7.0",
     "typescript": "^4.9.4"
-  }
+  },
+  "packageManager": "pnpm@7.24.2"
 }
