@@ -75,6 +75,9 @@ export default defineConfig({
     // last one
     if (provider === providers.at(-1)?.name) {
       // add more sponsors like wechat, alipay, etc.
+      console.info(
+        `✔️ Pushed ${customSponsors.length} custom sponsors into ${provider} provider.`
+      );
       return [...sponsors, ...customSponsors];
     }
   },
