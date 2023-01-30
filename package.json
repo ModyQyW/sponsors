@@ -22,8 +22,8 @@
   "devDependencies": {
     "@tsconfig/node18": "^1.0.1",
     "@types/node": "^18.11.18",
-    "sponsorkit": "^0.7.0",
+    "sponsorkit": "^0.8.1",
     "typescript": "^4.9.4"
   },
-  "packageManager": "pnpm@7.24.2"
+  "packageManager": "pnpm@7.26.2"
 }
