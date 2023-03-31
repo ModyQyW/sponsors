@@ -27,18 +27,16 @@ Your sponsorship means a lot to me. It will help me actively maintain my project
   <tr>
     <th>支付宝 Alipay</th>
     <th>微信 Wechat</th>
-    <th>QQ</th>
+    <th></th>
   </tr>
   <tr>
     <td>
-      <img src="./assets/alipay.jpeg" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
+      <img src="./assets/alipay.png" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
     </td>
     <td>
-      <img src="./assets/wechat.jpeg" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
+      <img src="./assets/wechat.png" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
     </td>
-    <td>
-      <img src="./assets/qq.jpeg" width="256px" style="display: block; margin-right: auto; margin-left: auto;" />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <th colspan="3">美团外卖 Meituan</th>
