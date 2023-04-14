@@ -23,7 +23,7 @@ const sponsors: Sponsorship[] = [
       type: "User",
       login: "zguolee",
       name: "Neil Lee",
-      avatarUrl: "https://avatars.githubusercontent.com/u/40738594?v=4",
+      avatarUrl: "https://avatars.githubusercontent.com/u/40738594",
       linkUrl: "https://github.com/zguolee",
     },
     monthlyDollars: convertCNYToUSD(20),
