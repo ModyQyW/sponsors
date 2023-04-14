@@ -6,10 +6,10 @@ const sponsors: Sponsorship[] = [
   {
     sponsor: {
       type: "User",
-      login: "wangzecn",
-      name: "王泽",
+      login: "11ze",
+      name: "泽",
       avatarUrl: "https://avatars.githubusercontent.com/u/35653404",
-      linkUrl: "https://github.com/wangzecn",
+      linkUrl: "https://github.com/11ze",
     },
     monthlyDollars: convertCNYToUSD(28.12),
     privacyLevel: "PUBLIC",
@@ -18,6 +18,21 @@ const sponsors: Sponsorship[] = [
     isOneTime: true,
     provider: "Wechat",
   },
+  {
+    sponsor: {
+      type: "User",
+      login: "zguolee",
+      name: "Neil Lee",
+      avatarUrl: "https://avatars.githubusercontent.com/u/40738594?v=4",
+      linkUrl: "https://github.com/zguolee",
+    },
+    monthlyDollars: convertCNYToUSD(20),
+    privacyLevel: "PUBLIC",
+    tierName: "Wechat",
+    createdAt: "2023-04-14T15:55:14+08:00",
+    isOneTime: true,
+    provider: "Wechat",
+  }
 ];
 
 export default sponsors;
