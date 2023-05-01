@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 devDependencies:
   '@tsconfig/node18':
-    specifier: ^1.0.1
-    version: 1.0.1
+    specifier: ^2.0.0
+    version: 2.0.0
   '@types/node':
     specifier: ^18.15.11
     version: 18.15.11
@@ -134,8 +134,8 @@ packages:
     engines: {node: '>= 10'}
     dev: true
 
-  /@tsconfig/node18@1.0.1:
-    resolution: {integrity: sha512-sNFeK6X2ATlhlvzyH4kKYQlfHXE2f2/wxtB9ClvYXevWpmwkUT7VaSrjIN9E76Qebz8qP5JOJJ9jD3QoD/Z9TA==}
+  /@tsconfig/node18@2.0.0:
+    resolution: {integrity: sha512-uI/B0ShkiEwTk036pncXucVlj4y11EW6mycQvCEzC1PkR2TBvdQZ5Wf96dp+XXWAc70FEDfvwTqanoaDpP6rPw==}
     dev: true
 
   /@types/node@18.15.11:
