@@ -26,7 +26,7 @@ const sponsors: Sponsorship[] = [
       avatarUrl: "https://avatars.githubusercontent.com/u/40738594",
       linkUrl: "https://github.com/zguolee",
     },
-    monthlyDollars: convertCNYToUSD(20),
+    monthlyDollars: convertCNYToUSD(52),
     privacyLevel: "PUBLIC",
     tierName: "Wechat",
     createdAt: "2023-04-14T15:55:14+08:00",
