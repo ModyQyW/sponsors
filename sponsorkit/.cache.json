@@ -14,7 +14,7 @@
     "privacyLevel": "PUBLIC",
     "tierName": "Afdian",
     "createdAt": "2023-06-14T14:37:06.000Z",
-    "isOneTime": true,
+    "isOneTime": false,
     "provider": "afdian"
   },
   {
