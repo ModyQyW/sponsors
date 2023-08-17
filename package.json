@@ -20,7 +20,7 @@
     "check:deps": "taze -f"
   },
   "devDependencies": {
-    "@tsconfig/node18": "^2.0.1",
+    "@tsconfig/node18": "^18.0.0",
     "@types/node": "^18.17.5",
     "sponsorkit": "^0.8.7",
     "taze": "^0.11.2",
