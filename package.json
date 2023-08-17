@@ -21,10 +21,10 @@
   },
   "devDependencies": {
     "@tsconfig/node18": "^2.0.1",
-    "@types/node": "^18.16.18",
-    "sponsorkit": "^0.8.3",
-    "taze": "^0.10.2",
-    "typescript": "^5.1.3"
+    "@types/node": "^18.17.5",
+    "sponsorkit": "^0.8.7",
+    "taze": "^0.11.2",
+    "typescript": "^5.1.6"
   },
-  "packageManager": "pnpm@8.6.2"
+  "packageManager": "pnpm@8.6.12"
 }
