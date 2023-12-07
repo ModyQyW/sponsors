@@ -9,11 +9,11 @@ jobs:
   update-sponsors:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: pnpm/action-setup@v2
       - uses: actions/setup-node@v3
         with:
-          node-version: lts/*
+          node-version-file: '.nvmrc'
           cache: pnpm
       - run: pnpm install
       - run: pnpm run build
