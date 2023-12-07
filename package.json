@@ -17,10 +17,11 @@
   },
   "scripts": {
     "build": "sponsorkit -f",
-    "check:deps": "taze -f"
+    "check:deps": "taze -f",
+    "check:types": "tsc --noEmit"
   },
   "devDependencies": {
-    "@tsconfig/node18": "^2.0.1",
+    "@tsconfig/node20": "^20.1.2",
     "@types/node": "^20.10.3",
     "sponsorkit": "^0.8.9",
     "taze": "^0.13.0",
