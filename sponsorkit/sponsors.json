@@ -51,6 +51,7 @@
           "bundle_sku_select_count": 0,
           "config": {},
           "has_plan_config": 0,
+          "shipping_fee_info": [],
           "expire_time": 1729872000,
           "sku_processed": [],
           "rankType": 1
@@ -88,6 +89,7 @@
         "bundle_sku_select_count": 0,
         "config": {},
         "has_plan_config": 0,
+        "shipping_fee_info": [],
         "expire_time": 1729872000,
         "sku_processed": [],
         "rankType": 1
