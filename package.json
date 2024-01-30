@@ -22,12 +22,12 @@
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.2",
-    "@types/node": "^20.10.5",
-    "sponsorkit": "^0.9.0",
-    "taze": "^0.13.0",
+    "@types/node": "^20.11.10",
+    "sponsorkit": "^0.9.1",
+    "taze": "^0.13.1",
     "typescript": "^5.3.3"
   },
-  "packageManager": "pnpm@8.12.1",
+  "packageManager": "pnpm@8.15.1",
   "engines": {
     "node": "20"
   }
