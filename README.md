@@ -89,12 +89,23 @@ At the moment, my career is unclear and my income is unstable. I may explore the
   </tr>
   <tr>
     <th colspan="8">
-      <a href="https://zeabur.com?referralCode=ModyQyW&utm_source=ModyQyW">
-        <p>
-          <img src="./assets/zeabur-logo.svg" width="16px" style="vertical-align: middle" />
-        </p>
-        <span>zeabur，部署服务从未如此简单</span>
-      </a>
+      <p>
+        <a href="https://zeabur.com?referralCode=ModyQyW&utm_source=ModyQyW">zeabur</a>
+      </p>
+      <p>部署服务从未如此简单</p>
+      <img src="./assets/zeabur-logo.svg" width="32px" style="vertical-align: middle" />
+    </th>
+
+  </tr>
+  <tr>
+    <th colspan="8">
+      <p>
+        <a href="https://laf.run/signup?code=gY5PUtG" target="_blank">laf.run 国内版</a>
+        <span>｜<span>
+        <a href="https://laf.dev/signup?code=vtqKvSP" target="_blank">laf.dev 海外版</a>
+      </p>
+      <p>集函数、数据库、存储为一体的云开发平台</p>
+      <img src="https://laf.dev/logo_text.png" width="64px" />
     </th>
   </tr>
   <tr>
