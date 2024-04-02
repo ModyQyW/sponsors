@@ -69,7 +69,8 @@ At the moment, my career is unclear and my income is unstable. I may explore the
       </p>
       <p>支付宝 alipay</p>
       <p>(+86)13266337925</p>
-      <img src="./assets/wechat.png" width="128px" />
+      <img src="./assets/alipay.png" width="128px" />
+      <img src="./assets/alipay-red-envelope.jpg" width="128px" />
     </th>
     <th colspan="4">
       <p>
@@ -77,8 +78,7 @@ At the moment, my career is unclear and my income is unstable. I may explore the
       </p>
       <p>微信 wechat</p>
       <p>(+86)13266337925</p>
-      <img src="./assets/alipay.png" width="128px" />
-      <img src="./assets/alipay-red-envelope.jpg" width="128px" />
+      <img src="./assets/wechat.png" width="128px" />
     </th>
   </tr>
   <tr><td colspan="8"></td></tr>
