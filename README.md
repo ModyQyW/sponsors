@@ -29,7 +29,7 @@ At the moment, my career is unclear and my income is unstable. I may explore the
     </th>
   </tr>
   <tr>
-    <th colspan="2" style="width: 25%">
+    <!-- <th colspan="2" style="width: 25%">
       <a href="https://www.paypal.com/paypalme/wurui7" target="_blank">
         <p>
           <img src="./assets/paypal-logo.svg" width="16px" style="vertical-align: middle" />
@@ -54,6 +54,14 @@ At the moment, my career is unclear and my income is unstable. I may explore the
       </a>
     </th>
     <th colspan="2" style="width: 25%">
+      <a href="https://afdian.net/a/ModyQyW" target="_blank">
+        <p>
+          <img src="./assets/afdian-logo.png" width="16px" style="vertical-align: middle" />
+        </p>
+        <span>爱发电 afdian</span>
+      </a>
+    </th> -->
+    <th colspan="8">
       <a href="https://afdian.net/a/ModyQyW" target="_blank">
         <p>
           <img src="./assets/afdian-logo.png" width="16px" style="vertical-align: middle" />
