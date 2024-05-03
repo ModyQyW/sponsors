@@ -16,18 +16,20 @@
     "url": "https://modyqyw.github.io"
   },
   "scripts": {
-    "build": "sponsorkit",
-    "check:deps": "taze -f",
-    "check:types": "tsc --noEmit"
+    "build": "sponsorkit -f",
+    "depupdate": "taze -fw",
+    "purge": "curl https://cdn.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.svg && curl https://cdn.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.png",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
-    "@types/node": "^20.12.7",
-    "sponsorkit": "^0.9.3",
-    "taze": "^0.13.6",
+    "@types/node": "^20.12.8",
+    "consola": "^3.2.3",
+    "sponsorkit": "^0.12.2",
+    "taze": "^0.13.8",
     "typescript": "^5.4.5"
   },
-  "packageManager": "pnpm@9.0.5",
+  "packageManager": "pnpm@9.0.6",
   "engines": {
     "node": "20"
   }
