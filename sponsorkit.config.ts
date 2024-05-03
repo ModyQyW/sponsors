@@ -8,6 +8,7 @@ import {
   Provider,
 } from "sponsorkit";
 import customSponsors from "./custom-sponsors";
+import { consola } from "consola";
 
 const config: SponsorkitConfig = {
   github: {
@@ -58,7 +59,7 @@ const config: SponsorkitConfig = {
       },
     },
   ],
-  fallbackAvatar: "https://placekitten.com/256/256",
+  fallbackAvatar: "https://picsum.photos/256/256",
 };
 
 let providers: Provider[];
@@ -75,8 +76,8 @@ export default defineConfig({
     // last one
     if (provider === providers.at(-1)?.name) {
       // add more sponsors like wechat, alipay, etc.
-      console.info(
-        `✔️ Pushed ${customSponsors.length} custom sponsors into ${provider} provider.`
+      consola.info(
+        `Pushed ${customSponsors.length} custom sponsors into ${provider} provider.`
       );
       return [...sponsors, ...customSponsors];
     }
