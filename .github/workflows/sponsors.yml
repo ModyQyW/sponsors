@@ -28,3 +28,4 @@ jobs:
           message: "chore: update sponsors"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: pnpm run purge
