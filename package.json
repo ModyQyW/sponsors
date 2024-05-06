@@ -18,7 +18,7 @@
   "scripts": {
     "build": "sponsorkit -f",
     "depupdate": "taze -fw",
-    "purge": "curl https://cdn.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.svg && curl https://cdn.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.png",
+    "purge": "curl https://purge.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.svg && curl https://purge.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.png",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
