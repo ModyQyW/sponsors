@@ -36,8 +36,8 @@ packages:
   '@antfu/utils@0.7.10':
     resolution: {integrity: sha512-+562v9k4aI80m1+VuMHehNJWLOFjBnXn3tdOitzD0il5b7smkSBal4+a3oKiQTbrwMmN/TBUMDvbdoWDehgOww==}
 
-  '@emnapi/runtime@1.1.1':
-    resolution: {integrity: sha512-3bfqkzuR1KLx57nZfjr2NLnFOobvyS0aTszaEGCGqmYMVDRaGvgIZbjGSV/MHSSmLgQ/b9JFHQ5xm5WRZYd+XQ==}
+  '@emnapi/runtime@1.2.0':
+    resolution: {integrity: sha512-bV21/9LQmcQeCPEg3BDFtvwL6cwiTMksYNWQQ4KOxCZikEGalWtenoZ0wCiukJINlGCIi2KXx01g4FoH/LxpzQ==}
 
   '@esbuild/aix-ppc64@0.20.2':
     resolution: {integrity: sha512-D+EBOJHXdNZcLJRBkhENNG8Wji2kgc9AZ9KiPr1JuZjsNtyHzrsfLRrY0tk2H2aoFu6RANO1y1iPPUCDYWkb5g==}
@@ -863,10 +863,6 @@ packages:
   jackspeak@3.4.3:
     resolution: {integrity: sha512-OGlZQpz2yfahA/Rd1Y8Cd9SIEsqvXkLVoSw/cgwhnhFMDbsQFeZYoJJ7bIZBS9BcamUW96asq/npPWugM+RQBw==}
 
-  jiti@1.21.0:
-    resolution: {integrity: sha512-gFqAIbuKyyso/3G2qhiO2OM6shY6EPP/R0+mkDbyspxKazh8BXDC5FiFsUjlczgdNz/vfra0da2y+aHrusLG/Q==}
-    hasBin: true
-
   jiti@1.21.6:
     resolution: {integrity: sha512-2yTgeWTWzMWkHu6Jp9NKgePDaYHbntiwvYuuJLbbN9vl7DC9DvXKOB2BC3ZZ92D3cvV/aflH0osDfwpHepQ53w==}
     hasBin: true
@@ -892,10 +888,6 @@ packages:
 
   lru-cache@10.4.3:
     resolution: {integrity: sha512-JNAzZcXrCt42VGLuYz0zfAzDfAvJWW6AfYlDBQyDV5DClI2m5sAmK+OIO7s59XfsRsWHp02jAJrRadPRGTt6SQ==}
-
-  lru-cache@6.0.0:
-    resolution: {integrity: sha512-Jo6dJ04CmSjuznwJSS3pUeWmd/H0ffTlkXXgwZi+eq1UCmqQwCh+eLsYOYCwY991i2Fah4h1BEMCx4qThGbsiA==}
-    engines: {node: '>=10'}
 
   make-fetch-happen@13.0.1:
     resolution: {integrity: sha512-cKTUFc/rbKUd/9meOvgrpJ2WrNzymt6jfRDdwg5UCnVzv9dTpEj9JS5m3wtziXVCjluIXyL8pcaukYqezIzZQA==}
@@ -1030,8 +1022,8 @@ packages:
   safer-buffer@2.1.2:
     resolution: {integrity: sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==}
 
-  semver@7.6.0:
-    resolution: {integrity: sha512-EnwXhrlwXMk9gKu5/flx5sv/an57AkRplG3hTK68W7FRDN+k+OWBj65M7719OkA82XLBxrcX0KSHj+X5COhOVg==}
+  semver@7.6.3:
+    resolution: {integrity: sha512-oVekP1cKtI+CTDvHWYFUcMtsK/00wmAEfyqKfNdARm8u1wNVhSgaX7A8d4UuIlUI5e84iEwOhs7ZPYRmzU9U6A==}
     engines: {node: '>=10'}
     hasBin: true
 
@@ -1105,16 +1097,16 @@ packages:
     resolution: {integrity: sha512-1hZ1zZiJWOzWa1QogaPiqaFsME5IkCgHEpNQhIHWH45SNuTvlEw8M2kEoQOTmNjbLtchbGDMKamJAGR8oiMP0g==}
     hasBin: true
 
-  tslib@2.6.2:
-    resolution: {integrity: sha512-AEYxH93jGFPn/a2iVAwW87VuUIkR1FVUKB77NwMF7nBTDkDrrT/Hpt/IrCJ0QXhW27jTBDcf5ZY7w6RiqTMw2Q==}
+  tslib@2.6.3:
+    resolution: {integrity: sha512-xNvxJEOUiWPGhUuUdQgAJPKOOJfGnIyKySOc09XkKsgdUV/3E2zvwZYdejjmRgPCgcym1juLH3226yA7sEFJKQ==}
 
   tsx@4.16.3:
     resolution: {integrity: sha512-MP8AEUxVnboD2rCC6kDLxnpDBNWN9k3BSVU/0/nNxgm70bPBnfn+yCKcnOsIVPQwdkbKYoFOlKjjWZWJ2XCXUg==}
     engines: {node: '>=18.0.0'}
     hasBin: true
 
-  type-detect@4.0.8:
-    resolution: {integrity: sha512-0fr/mIH1dlO+x7TlcMy+bIDqKPsw/70tVyeHW787goQjhmqaZe10uwLujubK9q9Lg6Fiho1KUKDYz0Z7k7g5/g==}
+  type-detect@4.1.0:
+    resolution: {integrity: sha512-Acylog8/luQ8L7il+geoSxhEkazvkslg7PSNKOX59mbB9cOveP5aq9h74Y7YU8yDpJwetzQQrfIwtf4Wp4LKcw==}
     engines: {node: '>=4'}
 
   typescript@5.5.4:
@@ -1122,8 +1114,8 @@ packages:
     engines: {node: '>=14.17'}
     hasBin: true
 
-  ufo@1.5.3:
-    resolution: {integrity: sha512-Y7HYmWaFwPUmkoQCUIAYpKqkOf+SbVj/2fJJZ4RJMCfZp0rTGwRbzQD+HghfnhKOjL9E01okqz+ncJskGYfBNw==}
+  ufo@1.5.4:
+    resolution: {integrity: sha512-UsUk3byDzKd04EyoZ7U4DOlxQaD14JUKQl6/P7wiX4FNvUfm3XL246n9W5AmqwW5RSFJ27NAuM0iLscAOYUiGQ==}
 
   unconfig@0.4.5:
     resolution: {integrity: sha512-+b4pZmGFeT3FD9EHWGkNwuOwrNzfgUq4ZoTh63+EKDyxLvYKajbowjRcKLumGExmPKNi5jxIpzhheKsPtV8dig==}
@@ -1184,9 +1176,9 @@ snapshots:
 
   '@antfu/utils@0.7.10': {}
 
-  '@emnapi/runtime@1.1.1':
+  '@emnapi/runtime@1.2.0':
     dependencies:
-      tslib: 2.6.2
+      tslib: 2.6.3
     optional: true
 
   '@esbuild/aix-ppc64@0.20.2':
@@ -1465,7 +1457,7 @@ snapshots:
 
   '@img/sharp-wasm32@0.33.4':
     dependencies:
-      '@emnapi/runtime': 1.1.1
+      '@emnapi/runtime': 1.2.0
     optional: true
 
   '@img/sharp-win32-ia32@0.33.4':
@@ -1488,7 +1480,7 @@ snapshots:
       call-me-maybe: 1.0.2
       cross-spawn: 7.0.3
       string-argv: 0.3.2
-      type-detect: 4.0.8
+      type-detect: 4.1.0
 
   '@npmcli/agent@2.2.2':
     dependencies:
@@ -1502,7 +1494,7 @@ snapshots:
 
   '@npmcli/fs@3.1.1':
     dependencies:
-      semver: 7.6.0
+      semver: 7.6.3
 
   '@npmcli/redact@2.0.1': {}
 
@@ -1825,7 +1817,7 @@ snapshots:
       debug: 4.3.6
       esbuild: 0.23.0
       jiti: 2.0.0-beta.2
-      jiti-v1: jiti@1.21.0
+      jiti-v1: jiti@1.21.6
       pathe: 1.1.2
       pkg-types: 1.1.3
       tsx: 4.16.3
@@ -1855,8 +1847,6 @@ snapshots:
     optionalDependencies:
       '@pkgjs/parseargs': 0.11.0
 
-  jiti@1.21.0: {}
-
   jiti@1.21.6: {}
 
   jiti@2.0.0-beta.2: {}
@@ -1872,10 +1862,6 @@ snapshots:
   load-tsconfig@0.2.5: {}
 
   lru-cache@10.4.3: {}
-
-  lru-cache@6.0.0:
-    dependencies:
-      yallist: 4.0.0
 
   make-fetch-happen@13.0.1:
     dependencies:
@@ -1942,7 +1928,7 @@ snapshots:
       acorn: 8.12.1
       pathe: 1.1.2
       pkg-types: 1.1.3
-      ufo: 1.5.3
+      ufo: 1.5.4
 
   ms@2.1.2: {}
 
@@ -1961,7 +1947,7 @@ snapshots:
     dependencies:
       hosted-git-info: 7.0.2
       proc-log: 4.2.0
-      semver: 7.6.0
+      semver: 7.6.3
       validate-npm-package-name: 5.0.1
 
   npm-registry-fetch@17.1.0:
@@ -1985,7 +1971,7 @@ snapshots:
     dependencies:
       destr: 2.0.3
       node-fetch-native: 1.6.4
-      ufo: 1.5.3
+      ufo: 1.5.4
 
   p-limit@6.1.0:
     dependencies:
@@ -2030,15 +2016,13 @@ snapshots:
   safer-buffer@2.1.2:
     optional: true
 
-  semver@7.6.0:
-    dependencies:
-      lru-cache: 6.0.0
+  semver@7.6.3: {}
 
   sharp@0.33.4:
     dependencies:
       color: 4.2.3
       detect-libc: 2.0.3
-      semver: 7.6.0
+      semver: 7.6.3
     optionalDependencies:
       '@img/sharp-darwin-arm64': 0.33.4
       '@img/sharp-darwin-x64': 0.33.4
@@ -2153,7 +2137,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  tslib@2.6.2:
+  tslib@2.6.3:
     optional: true
 
   tsx@4.16.3:
@@ -2163,11 +2147,11 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  type-detect@4.0.8: {}
+  type-detect@4.1.0: {}
 
   typescript@5.5.4: {}
 
-  ufo@1.5.3: {}
+  ufo@1.5.4: {}
 
   unconfig@0.4.5:
     dependencies:
