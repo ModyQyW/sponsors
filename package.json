@@ -15,21 +15,22 @@
     "email": "wurui-dev@foxmail.com",
     "url": "https://modyqyw.github.io"
   },
+  "type": "module",
   "scripts": {
     "build": "sponsorkit -f",
-    "depupdate": "taze -fw",
+    "dep-update": "taze -fw",
     "purge": "curl https://purge.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.svg && curl https://purge.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.png",
-    "typecheck": "tsc --noEmit"
+    "type-check": "tsc --noEmit"
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
-    "@types/node": "^20.12.8",
+    "@types/node": "^20.14.13",
     "consola": "^3.2.3",
-    "sponsorkit": "^0.12.2",
-    "taze": "^0.13.8",
-    "typescript": "^5.4.5"
+    "sponsorkit": "^0.15.2",
+    "taze": "^0.16.3",
+    "typescript": "^5.5.4"
   },
-  "packageManager": "pnpm@9.0.6",
+  "packageManager": "pnpm@9.6.0",
   "engines": {
     "node": "20"
   }
