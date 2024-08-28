@@ -48,7 +48,7 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
   </tr>
   <tr>
     <th colspan="4">
-      <a href="https://afdian.net/a/ModyQyW" target="_blank">
+      <a href="https://afdian.com/a/ModyQyW" target="_blank">
         <p>
           <img src="./assets/afdian-logo.png" width="16px" style="vertical-align: middle" />
           爱发电 afdian
