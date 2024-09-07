@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
-    "@types/node": "^20.16.2",
+    "@types/node": "^20.16.5",
     "consola": "^3.2.3",
     "sponsorkit": "^0.15.4",
     "taze": "^0.16.7",
