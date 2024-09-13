@@ -103,7 +103,9 @@
           "update_time": 1672387320,
           "timing": {
             "timing_on": 0,
-            "timing_off": 0
+            "timing_off": 0,
+            "timing_sell_on": 0,
+            "timing_sell_off": 0
           },
           "pay_month": 1,
           "show_price": "8.00",
@@ -141,7 +143,9 @@
         "update_time": 1672387320,
         "timing": {
           "timing_on": 0,
-          "timing_off": 0
+          "timing_off": 0,
+          "timing_sell_on": 0,
+          "timing_sell_off": 0
         },
         "pay_month": 1,
         "show_price": "8.00",
