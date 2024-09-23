@@ -88,35 +88,12 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
   <tr>
     <th colspan="4">
       <p>美团外卖红包 meituan</p>
-      <p>
-        <a href="https://tb.j5k6.com/5g8Sb" target="_blank">短链</a>
-      </p>
-      <img src="./assets/meituan-wechat-miniprogram.jpg" width="128px" />
-      <img src="./assets/meituan-web.png" width="128px" />
+      <img src="./assets/meituan.jpg" width="128px" />
     </th>
     <th colspan="4">
       <p>饿了么红包 eleme</p>
-      <p>
-        <a href="https://tb.j5k6.com/5g7A7" target="_blank">短链</a>
-      </p>
-      <img src="./assets/eleme-wechat-miniprogram.avif" width="128px" />
-      <img src="./assets/eleme-web.png" width="128px" />
-    </th>
-  </tr>
-  <tr>
-    <th colspan="4">
-      <p>京东商城返利 jd</p>
-      <p>
-        <a href="https://tb.j5k6.com/5gayH" target="_blank">短链</a>
-      </p>
-      <img src="./assets/jd-web.png" width="128px" />
-    </th>
-    <th colspan="4">
-      <p>唯品会返利 vip</p>
-      <p>
-        <a href="https://tb.j5k6.com/5gbB3" target="_blank">短链</a>
-      </p>
-      <img src="./assets/vip-web.png" width="128px" />
+      <img src="./assets/eleme.jpg" width="128px" />
+      <img src="./assets/eleme2.jpg" width="128px" />
     </th>
   </tr>
 </table>
