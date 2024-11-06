@@ -23,14 +23,14 @@
     "type-check": "tsc --noEmit"
   },
   "devDependencies": {
-    "@tsconfig/node20": "^20.1.4",
-    "@types/node": "^20.16.5",
+    "@tsconfig/node22": "^22.0.0",
+    "@types/node": "^22.9.0",
     "consola": "^3.2.3",
-    "sponsorkit": "^0.15.4",
-    "taze": "^0.16.7",
-    "typescript": "^5.5.4"
+    "sponsorkit": "^0.16.0",
+    "taze": "^0.18.0",
+    "typescript": "^5.6.3"
   },
-  "packageManager": "pnpm@9.9.0",
+  "packageManager": "pnpm@9.12.3",
   "engines": {
     "node": "20"
   }
