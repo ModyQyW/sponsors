@@ -81,7 +81,51 @@ const sponsors: Sponsorship[] = [
     isOneTime: true,
     provider: "WeChat",
     raw: {
-      sponsors: [{ cny: 2, description: "感谢你的付出，请你吃个鸡爪。" }],
+      sponsors: [
+        {
+          cny: 2,
+          description: "感谢你的付出，请你吃个鸡爪。",
+          createdAt: "2024-06-26T13:27:36+08:00",
+        },
+      ],
+    },
+  },
+  {
+    sponsor: {
+      type: "User",
+      login: "wtto00",
+      name: "简静凡",
+      avatarUrl: "https://avatars.githubusercontent.com/u/30424139?v=4",
+    },
+    monthlyDollars: convertCNYToUSD(10.24 + 10.24 + 10.24 + 10.24),
+    privacyLevel: "PUBLIC",
+    tierName: "WeChat",
+    createdAt: "2024-11-16T09:54:43+08:00",
+    isOneTime: true,
+    provider: "WeChat",
+    raw: {
+      sponsors: [
+        {
+          cny: 10.24,
+          description: "",
+          createdAt: "2024-11-16T09:54:43+08:00",
+        },
+        {
+          cny: 10.24,
+          description: "",
+          createdAt: "2024-11-16T09:55:24+08:00",
+        },
+        {
+          cny: 10.24,
+          description: "",
+          createdAt: "2024-11-17T18:59:46+08:00",
+        },
+        {
+          cny: 10.24,
+          description: "",
+          createdAt: "2024-11-18T16:26:38+08:00",
+        },
+      ],
     },
   },
 ];
