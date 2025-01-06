@@ -97,7 +97,7 @@ const sponsors: Sponsorship[] = [
       name: "简静凡",
       avatarUrl: "https://avatars.githubusercontent.com/u/30424139?v=4",
     },
-    monthlyDollars: convertCNYToUSD(10.24 + 10.24 + 10.24 + 10.24),
+    monthlyDollars: convertCNYToUSD(10.24 + 10.24 + 10.24 + 10.24 + 10.24),
     privacyLevel: "PUBLIC",
     tierName: "WeChat",
     createdAt: "2024-11-16T09:54:43+08:00",
@@ -124,6 +124,34 @@ const sponsors: Sponsorship[] = [
           cny: 10.24,
           description: "",
           createdAt: "2024-11-18T16:26:38+08:00",
+        },
+        {
+          cny: 10.24,
+          description: "",
+          createdAt: "2024-12-16T23:55:38+08:00",
+        },
+      ],
+    },
+  },
+  {
+    sponsor: {
+      type: "User",
+      login: "buptzyf",
+      name: "buptzyf",
+      avatarUrl: "https://avatars.githubusercontent.com/u/11564966?v=4",
+    },
+    monthlyDollars: convertCNYToUSD(4),
+    privacyLevel: "PUBLIC",
+    tierName: "WeChat",
+    createdAt: "2025-01-06T13:42:54+08:00",
+    isOneTime: true,
+    provider: "WeChat",
+    raw: {
+      sponsors: [
+        {
+          cny: 4,
+          description: "感谢",
+          createdAt: "2025-01-06T13:42:54+08:00",
         },
       ],
     },
