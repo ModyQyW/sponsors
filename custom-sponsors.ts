@@ -59,7 +59,7 @@ const sponsors: Sponsorship[] = [
       avatarUrl: "https://avatars.githubusercontent.com/u/51143752?v=4",
       linkUrl: "https://github.com/lwb0711",
     },
-    monthlyDollars: convertCNYToUSD(8),
+    monthlyDollars: convertCNYToUSD(8 + 10.24),
     privacyLevel: "PUBLIC",
     tierName: "WeChat",
     createdAt: "2023-12-20T16:45:00+08:00",
