@@ -24,13 +24,13 @@
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.0",
-    "@types/node": "^22.10.5",
-    "consola": "^3.3.3",
-    "sponsorkit": "^0.16.2",
-    "taze": "^0.18.0",
-    "typescript": "^5.7.2"
+    "@types/node": "^22.10.6",
+    "consola": "^3.4.0",
+    "sponsorkit": "^16.3.0",
+    "taze": "^18.2.0",
+    "typescript": "^5.7.3"
   },
-  "packageManager": "pnpm@9.15.3",
+  "packageManager": "pnpm@9.15.4",
   "engines": {
     "node": "22"
   }
