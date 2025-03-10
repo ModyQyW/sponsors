@@ -18,7 +18,7 @@
   "type": "module",
   "scripts": {
     "build": "sponsorkit",
-    "build:force": "sponsorkit",
+    "build:force": "sponsorkit -f",
     "dep-update": "taze -fw",
     "purge": "curl https://purge.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.svg && curl https://purge.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.png",
     "type-check": "tsc --noEmit"
