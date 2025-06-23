@@ -74,6 +74,15 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
     </th>
   </tr>
   <tr>
+    <th colspan="8">
+      <p>
+        <img src="https://raw.githubusercontent.com/zeabur/zeabur/refs/heads/main/docs/public/logo_b.svg" width="64px" style="vertical-align: middle; margin-right: 8px;" />
+        <a href="https://zeabur.com/referral?referralCode=ModyQyW" target="_blank">Zeabur</a>
+      </p>
+      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">轻松部署，无限扩展</p>
+    </th>
+  </tr>
+  <tr>
     <th colspan="4">
       <p>美团外卖红包 meituan</p>
       <img src="./assets/meituan.jpg" width="128px" />
