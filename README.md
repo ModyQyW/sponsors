@@ -65,12 +65,10 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
   <tr>
     <th colspan="8">
       <p>
-        <img src="https://laf.dev/logo_text.png" width="64px" style="vertical-align: middle; margin-right: 8px;" />
-        <a href="https://laf.run/signup?code=gY5PUtG" target="_blank">laf.run 国内版</a>
-        <span>｜<span>
-        <a href="https://laf.dev/signup?code=vtqKvSP" target="_blank">laf.dev 海外版</a>
+        <img src="https://siliconflow.cn/logo-footer.svg" width="64px" style="vertical-align: middle; margin-right: 8px;" />
+        <a href="https://cloud.siliconflow.cn/i/MRRM9oS3" target="_blank">硅基流动 SiliconFlow</a>
       </p>
-      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">集函数、数据库、存储为一体的云开发平台</p>
+      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">加速 AGI 普惠人类</p>
     </th>
   </tr>
   <tr>
