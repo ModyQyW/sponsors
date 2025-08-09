@@ -65,8 +65,10 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
   <tr>
     <th colspan="8">
       <p>
-        <img src="https://siliconflow.cn/logo-footer.svg" width="64px" style="vertical-align: middle; margin-right: 8px;" />
-        <a href="https://cloud.siliconflow.cn/i/MRRM9oS3" target="_blank">硅基流动 SiliconFlow</a>
+        <a href="https://cloud.siliconflow.cn/i/MRRM9oS3" target="_blank">
+          <img src="https://siliconflow.cn/logo-footer.svg" width="64px" style="vertical-align: middle; margin-right: 8px;" />
+          硅基流动 SiliconFlow
+        </a>
       </p>
       <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">加速 AGI 普惠人类</p>
     </th>
@@ -74,10 +76,24 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
   <tr>
     <th colspan="8">
       <p>
-        <img src="https://raw.githubusercontent.com/zeabur/zeabur/refs/heads/main/docs/public/logo_b.svg" width="64px" style="vertical-align: middle; margin-right: 8px;" />
-        <a href="https://zeabur.com/referral?referralCode=ModyQyW" target="_blank">Zeabur</a>
+        <a href="https://zeabur.com/referral?referralCode=ModyQyW" target="_blank">
+          <img src="https://raw.githubusercontent.com/zeabur/zeabur/refs/heads/main/docs/public/logo_b.svg" width="64px" style="vertical-align: middle; margin-right: 8px;" />
+          Zeabur
+        </a>
       </p>
       <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">轻松部署，无限扩展</p>
+    </th>
+  </tr>
+  <tr>
+    <th colspan="8">
+      <p>
+        <a href="https://www.mianshiya.com/vip?shareCode=yzb9ja" target="_blank">
+          <img src="https://www.mianshiya.com/_next/image?url=%2Flogo.png&w=64&q=75" width="32px" style="vertical-align: middle; margin-right: 8px;" />
+          程序员刷题神器面试鸭
+        </a>
+      </p>
+      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">高效准备面试，9000+ 高频面试真题、800 万字优质题解，覆盖主流编程方向，跟我一起刷原题、过面试</p>
+      <img src="./assets/mianshiya-poster.png" width="40%" />
     </th>
   </tr>
   <tr>
