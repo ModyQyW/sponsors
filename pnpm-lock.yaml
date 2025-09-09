@@ -4,6 +4,8 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+pnpmfileChecksum: sha256-ZfwGjIvQgPR9mEJg5iihJauZ5iv1Ogj5lI/dgVj7pgI=
+
 importers:
 
   .:
@@ -12,25 +14,25 @@ importers:
         specifier: ^22.0.2
         version: 22.0.2
       '@types/node':
-        specifier: ^22.17.1
-        version: 22.17.1
+        specifier: ^22.18.1
+        version: 22.18.1
       consola:
         specifier: ^3.4.2
         version: 3.4.2
       sponsorkit:
-        specifier: ^16.5.0
-        version: 16.5.0
+        specifier: ^17.0.0
+        version: 17.0.0
       taze:
-        specifier: ^19.1.0
-        version: 19.1.0
+        specifier: ^19.6.0
+        version: 19.6.0
       typescript:
         specifier: ^5.9.2
         version: 5.9.2
 
 packages:
 
-  '@antfu/ni@24.4.0':
-    resolution: {integrity: sha512-ZjriRbGyWGSrBE1RY2qBIXyilejMWLDWh2Go2dqFottyiuOze36+BpPch2z2WnGEgEbzTBVPetMmQvt0xt+iww==}
+  '@antfu/ni@25.0.0':
+    resolution: {integrity: sha512-9q/yCljni37pkMr4sPrI3G4jqdIk074+iukc5aFJl7kmDCCsiJrbZ6zKxnES1Gwg+i9RcDZwvktl23puGslmvA==}
     hasBin: true
 
   '@emnapi/runtime@1.4.5':
@@ -162,11 +164,14 @@ packages:
     resolution: {integrity: sha512-sx8J1O/+j2lqs8MvsEz6rs/6UAUpCb4fu7C6EqtMqzbS3CmqLkTDTOMK+DrWukvyUuHzl8DhMjfNJzQDTqfGJg==}
     engines: {node: '>=20.18.0'}
 
+  '@quansync/fs@0.1.5':
+    resolution: {integrity: sha512-lNS9hL2aS2NZgNW7BBj+6EBl4rOf8l+tQ0eRY6JWCI8jI2kc53gSoqbjojU0OnAWhzoXiOjFyGsHcDGePB3lhA==}
+
   '@tsconfig/node22@22.0.2':
     resolution: {integrity: sha512-Kmwj4u8sDRDrMYRoN9FDEcXD8UpBSaPQQ24Gz+Gamqfm7xxn+GBR7ge/Z7pK8OXNGyUzbSwJj+TH6B+DS/epyA==}
 
-  '@types/node@22.17.1':
-    resolution: {integrity: sha512-y3tBaz+rjspDTylNjAX37jEC3TETEFGNJL6uQDxwF9/8GLLIjW1rvVHlynyuUKMnMr1Roq8jOv3vkopBjC4/VA==}
+  '@types/node@22.18.1':
+    resolution: {integrity: sha512-rzSDyhn4cYznVG+PCzGe1lwuMYJrcBS1fc3JqSa2PvtABwWo+dZ1ij5OVok3tqfpEBCBoaR4d7upFJk73HRJDw==}
 
   ansis@4.1.0:
     resolution: {integrity: sha512-BGcItUBWSMRgOCe+SVZJ+S7yTRG0eGt9cXAHev72yuGcY23hnLA7Bky5L/xLyPINoSN95geovfBkqoTlNZYa7w==}
@@ -204,8 +209,8 @@ packages:
     resolution: {integrity: sha512-3UDv+G9CsCKO1WKMGw9fwq/SWJYbI0c5Y7LU1AXYoDdbhE2AHQ6N6Nb34sG8Fj7T5APy8qXDCKuuIHd1BR0tVA==}
     engines: {node: '>=8'}
 
-  dotenv@16.6.1:
-    resolution: {integrity: sha512-uBq4egWHTcTt33a72vpSG0z3HnPuIl6NqYcTrKEg2azoEyl2hpW0zqlxysq2pK9HlDIHyHyakeYaYnSAwd8bow==}
+  dotenv@17.2.2:
+    resolution: {integrity: sha512-Sf2LSQP+bOlhKWWyhFsn0UsfdK/kCWRv1iuA2gXAwt3dyNabr6QSj00I2V10pidqz69soatm9ZwZvpQMTIOd5Q==}
     engines: {node: '>=12'}
 
   fdir@6.4.6:
@@ -228,6 +233,10 @@ packages:
 
   jiti@2.4.2:
     resolution: {integrity: sha512-rg9zJN+G4n2nfJl5MW3BMygZX56zKPNVEYYqq7adpmMh4Jn2QNEwhvQlFy6jPVdcod7txZtKHWnyZiA3a0zP7A==}
+    hasBin: true
+
+  jiti@2.5.1:
+    resolution: {integrity: sha512-twQoecYPiVA5K/h6SxtORw/Bs3ar+mLUtoPSc7iMXzQzK8d7eJ/R09wmTwAjiamETn1cXYPGfNnu7DMoHgu12w==}
     hasBin: true
 
   mimic-function@5.0.1:
@@ -254,8 +263,11 @@ packages:
     resolution: {integrity: sha512-5gTmgEY/sqK6gFXLIsQNH19lWb4ebPDLA4SdLP7dsWkIXHWlG66oPuVvXSGFPppYZz8ZDZq0dYYrbHfBCVUb1Q==}
     engines: {node: '>=12'}
 
-  pnpm-workspace-yaml@0.3.1:
-    resolution: {integrity: sha512-3nW5RLmREmZ8Pm8MbPsO2RM+99RRjYd25ynj3NV0cFsN7CcEl4sDFzgoFmSyduFwxFQ2Qbu3y2UdCh6HlyUOeA==}
+  pnpm-workspace-yaml@1.1.1:
+    resolution: {integrity: sha512-nGBB7h3Ped3g9dBrR6d3YNwXCKYsEg8K9J3GMmSrwGEXq3RHeGW44/B4MZW51p4FRMnyxJzTY5feSBbUjRhIHQ==}
+
+  quansync@0.2.11:
+    resolution: {integrity: sha512-AifT7QEbW9Nri4tAwR5M/uzpBuqfZf+zwaEM/QkzEjj7NBuFD2rBuy0K3dE+8wltbezDV7JMA0WfnCPYRSYbXA==}
 
   quansync@0.2.8:
     resolution: {integrity: sha512-4+saucphJMazjt7iOM27mbFCk+D9dd/zmgMDCzRZ8MEoBfYp7lAvoN38et/phRQF6wOPMy/OROBGgoWeSKyluA==}
@@ -280,12 +292,12 @@ packages:
   simple-swizzle@0.2.2:
     resolution: {integrity: sha512-JA//kQgZtbuY83m+xT+tXJkmJncGMTFT+C+g2h2R9uxkYIrE2yy9sgmcLhCnw57/WSD+Eh3J97FPEDFnbXnDUg==}
 
-  sponsorkit@16.5.0:
-    resolution: {integrity: sha512-GvlLg88eAEbKzROwAspT+PQTMfHN9KQ+zgPqBBvV1W2jQmKxOtnv9vjgByXvXA2dvTjnksdvbTuwqhJZllyLQA==}
+  sponsorkit@17.0.0:
+    resolution: {integrity: sha512-wu6YQRNEXMh7IRTWGO/ZyrH4W7jecADea7wjRn9D+gZ5PewDbvSsbncFRofBTtnqyZ1n1MQElIvkF/VlVll8Jw==}
     hasBin: true
 
-  taze@19.1.0:
-    resolution: {integrity: sha512-MDN2WZb7TgsIvtFxqsLJ4GYy9dTDG5Dea/ZfPHrG98Cy7UH1EFIOzH+zDjnoP38ImuBbxZy1Zl8AbiwOZpYMUQ==}
+  taze@19.6.0:
+    resolution: {integrity: sha512-hQGQH4WVtV9BqsZbrGzOmOP4NdWqie948BnqtH+NPwdVt5mI+qALVRDvgzgdf+neN7bcrVVpV4ToyFkxg0U0xQ==}
     hasBin: true
 
   tinyexec@1.0.1:
@@ -309,6 +321,9 @@ packages:
   unconfig@7.3.2:
     resolution: {integrity: sha512-nqG5NNL2wFVGZ0NA/aCFw0oJ2pxSf1lwg4Z5ill8wd7K4KX/rQbHlwbh+bjctXL5Ly1xtzHenHGOK0b+lG6JVg==}
 
+  unconfig@7.3.3:
+    resolution: {integrity: sha512-QCkQoOnJF8L107gxfHL0uavn7WD9b3dpBcFX6HtfQYmjw2YzWxGuFQ0N0J6tE9oguCBJn9KOvfqYDCMPHIZrBA==}
+
   undici-types@6.21.0:
     resolution: {integrity: sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==}
 
@@ -319,7 +334,7 @@ packages:
 
 snapshots:
 
-  '@antfu/ni@24.4.0':
+  '@antfu/ni@25.0.0':
     dependencies:
       ansis: 4.1.0
       fzf: 0.5.2
@@ -421,9 +436,13 @@ snapshots:
     dependencies:
       quansync: 0.2.8
 
+  '@quansync/fs@0.1.5':
+    dependencies:
+      quansync: 0.2.11
+
   '@tsconfig/node22@22.0.2': {}
 
-  '@types/node@22.17.1':
+  '@types/node@22.18.1':
     dependencies:
       undici-types: 6.21.0
 
@@ -455,7 +474,7 @@ snapshots:
 
   detect-libc@2.0.4: {}
 
-  dotenv@16.6.1: {}
+  dotenv@17.2.2: {}
 
   fdir@6.4.6(picomatch@4.0.3):
     optionalDependencies:
@@ -468,6 +487,8 @@ snapshots:
   is-arrayish@0.3.2: {}
 
   jiti@2.4.2: {}
+
+  jiti@2.5.1: {}
 
   mimic-function@5.0.1: {}
 
@@ -489,9 +510,11 @@ snapshots:
 
   picomatch@4.0.3: {}
 
-  pnpm-workspace-yaml@0.3.1:
+  pnpm-workspace-yaml@1.1.1:
     dependencies:
       yaml: 2.8.1
+
+  quansync@0.2.11: {}
 
   quansync@0.2.8: {}
 
@@ -537,29 +560,29 @@ snapshots:
     dependencies:
       is-arrayish: 0.3.2
 
-  sponsorkit@16.5.0:
+  sponsorkit@17.0.0:
     dependencies:
       ansis: 4.1.0
       cac: 6.7.14
       consola: 3.4.2
-      dotenv: 16.6.1
+      dotenv: 17.2.2
       ofetch: 1.4.1
       sharp: 0.34.3
       unconfig: 7.3.2
 
-  taze@19.1.0:
+  taze@19.6.0:
     dependencies:
-      '@antfu/ni': 24.4.0
+      '@antfu/ni': 25.0.0
       cac: 6.7.14
       find-up-simple: 1.0.1
       ofetch: 1.4.1
       package-manager-detector: 1.3.0
       pathe: 2.0.3
-      pnpm-workspace-yaml: 0.3.1
+      pnpm-workspace-yaml: 1.1.1
       restore-cursor: 5.1.0
       tinyexec: 1.0.1
       tinyglobby: 0.2.14
-      unconfig: 7.3.2
+      unconfig: 7.3.3
       yaml: 2.8.1
 
   tinyexec@1.0.1: {}
@@ -582,6 +605,13 @@ snapshots:
       defu: 6.1.4
       jiti: 2.4.2
       quansync: 0.2.8
+
+  unconfig@7.3.3:
+    dependencies:
+      '@quansync/fs': 0.1.5
+      defu: 6.1.4
+      jiti: 2.5.1
+      quansync: 0.2.11
 
   undici-types@6.21.0: {}
 

@@ -1,7 +1,7 @@
 import {
   defineConfig,
   loadConfig,
-  presets,
+  tierPresets,
   resolveProviders,
   guessProviders,
   SponsorkitConfig,
@@ -19,27 +19,27 @@ const config: SponsorkitConfig = {
     {
       title: "Past Sponsors",
       monthlyDollars: -1,
-      preset: presets.xs,
+      preset: tierPresets.xs,
     },
     {
       title: "Backers",
       monthlyDollars: 0,
-      preset: presets.base,
+      preset: tierPresets.base,
     },
     {
       title: "Sponsors",
       monthlyDollars: 19.69,
-      preset: presets.medium,
+      preset: tierPresets.medium,
     },
     {
       title: "Silver Sponsors",
       monthlyDollars: 39.38,
-      preset: presets.large,
+      preset: tierPresets.large,
     },
     {
       title: "Gold Sponsors",
       monthlyDollars: 78.77,
-      preset: presets.xl,
+      preset: tierPresets.xl,
     },
     {
       title: "Special Sponsors",
