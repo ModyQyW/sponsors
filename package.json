@@ -19,7 +19,6 @@
   "scripts": {
     "build": "sponsorkit",
     "build:force": "sponsorkit -f",
-    "dep-update": "taze -fw",
     "purge": "curl https://purge.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.svg && curl https://purge.jsdelivr.net/gh/ModyQyW/sponsors/sponsorkit/sponsors.png",
     "type-check": "tsc --noEmit"
   },
@@ -28,7 +27,6 @@
     "@types/node": "^22.18.10",
     "consola": "^3.4.2",
     "sponsorkit": "^17.0.0",
-    "taze": "^19.7.0",
     "typescript": "^5.9.3"
   },
   "packageManager": "pnpm@10.18.3"
