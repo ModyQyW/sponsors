@@ -99,12 +99,16 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
     <th colspan="8">
       <p>
         <a href="https://www.bigmodel.cn/glm-coding?ic=WZQSPKGA2S" target="_blank">
-          <img src="data:image/png;base64,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" width="32px" style="vertical-align: middle; margin-right: 8px;" />
-          Z智谱·一站式大模型开发平台
+          <img src="./assets/bigmodel-logo.png" width="32px" style="vertical-align: middle; margin-right: 8px;" />
+          智谱
+        </a>
+        <span>|</span>
+        <a href="https://z.ai/subscribe?ic=SNRRNING7K" target="_blank">
+          <img src="https://z-cdn.chatglm.cn/z-ai/static/logo.svg" width="32px" style="vertical-align: middle; margin-right: 8px;" />
+          z.ai
         </a>
       </p>
-      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">🚀 速来拼好模，智谱 GLM Coding 超值订阅！Claude Code、Cline 等 20+ 大编程工具无缝支持！</p>
-      <img src="./assets/bigmodel-poster.png" width="40%" />
+      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">一站式大模型开发平台</p>
     </th>
   </tr>
   <tr>
