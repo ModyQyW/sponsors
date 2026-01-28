@@ -98,6 +98,17 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
   <tr>
     <th colspan="8">
       <p>
+        <a href="https://volcengine.com/L/RX4SrHPUOWc/" target="_blank">
+          <img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/shayvw_lmjsvc/ljhwZthlaukjlkulzlp/logo-theme-light.svg" width="64px" style="vertical-align: middle; margin-right: 8px;" />
+          火山引擎 · 方舟 Coding Plan
+        </a>
+      </p>
+      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">首月低至8.9元，模型自由，工具不限</p>
+    </th>
+  </tr>
+  <tr>
+    <th colspan="8">
+      <p>
         <a href="https://www.bigmodel.cn/glm-coding?ic=WZQSPKGA2S" target="_blank">
           <img src="./assets/bigmodel-logo.png" width="32px" style="vertical-align: middle; margin-right: 8px;" />
           智谱
