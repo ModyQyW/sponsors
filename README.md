@@ -98,12 +98,33 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
   <tr>
     <th colspan="8">
       <p>
-        <a href="https://volcengine.com/L/RX4SrHPUOWc/" target="_blank">
-          <img src="https://lf3-static.bytednsdoc.com/obj/eden-cn/shayvw_lmjsvc/ljhwZthlaukjlkulzlp/logo-theme-light.svg" width="64px" style="vertical-align: middle; margin-right: 8px;" />
-          火山引擎 · 方舟 Coding Plan
+        <a href="https://aigocode.com/invite/7XH6NZZZ" target="_blank">
+          <img src="./assets/aigocode-logo.avif" width="32px" style="vertical-align: middle; margin-right: 8px;" />
+          AIGoCode
         </a>
       </p>
-      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">首月低至8.9元，模型自由，工具不限</p>
+      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">重构您的 AI 编程体验</p>
+    </th>
+  </tr>
+  <tr>
+    <th colspan="8">
+      <p>
+        <a href="https://www.ccsub.net/register?ref=TUM8D23V" target="_blank">
+          <img src="https://www.ccsub.net/ccsub_logo.png" width="32px" style="vertical-align: middle; margin-right: 8px;" />
+          CCSub
+        </a>
+      </p>
+      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">稳定、实惠、开箱即用的 AI API 中转服务</p>
+    </th>
+  </tr>
+  <tr>
+    <th colspan="8">
+      <p>
+        <a href="https://fishxcode.com/register?aff=WAjK" target="_blank">
+          FishXCode
+        </a>
+      </p>
+      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">企业级 Claude API 官方通道中转</p>
     </th>
   </tr>
   <tr>
