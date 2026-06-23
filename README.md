@@ -48,12 +48,12 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
   </tr>
   <tr>
     <th colspan="4">
-      <a href="https://afdian.com/a/ModyQyW" target="_blank">
-        <p>
+      <p>
+        <a href="https://afdian.com/a/ModyQyW" target="_blank">
           <img src="./assets/afdian-logo.png" width="16px" style="vertical-align: middle" />
           爱发电 afdian
-        </p>
-      </a>
+        </a>
+      </p>
     </th>
   </tr>
   <tr><td colspan="8"></td></tr>
@@ -98,6 +98,16 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
   <tr>
     <th colspan="8">
       <p>
+        <a href="https://fishxcode.com/register?aff=WAjK" target="_blank">
+          FishXCode
+        </a>
+      </p>
+      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">企业级 Claude API 官方通道中转</p>
+    </th>
+  </tr>
+  <tr>
+    <th colspan="8">
+      <p>
         <a href="https://aigocode.com/invite/7XH6NZZZ" target="_blank">
           <img src="./assets/aigocode-logo.avif" width="32px" style="vertical-align: middle; margin-right: 8px;" />
           AIGoCode
@@ -115,16 +125,6 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
         </a>
       </p>
       <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">稳定、实惠、开箱即用的 AI API 中转服务</p>
-    </th>
-  </tr>
-  <tr>
-    <th colspan="8">
-      <p>
-        <a href="https://fishxcode.com/register?aff=WAjK" target="_blank">
-          FishXCode
-        </a>
-      </p>
-      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">企业级 Claude API 官方通道中转</p>
     </th>
   </tr>
   <tr>
