@@ -5,15 +5,15 @@
   "bugs": {
     "url": "https://github.com/ModyQyW/sponsors/issues"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ModyQyW/sponsors.git"
-  },
   "license": "MIT",
   "author": {
     "name": "ModyQyW",
     "email": "wurui.dev@gmail.com",
     "url": "https://github.com/ModyQyW"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModyQyW/sponsors.git"
   },
   "type": "module",
   "scripts": {

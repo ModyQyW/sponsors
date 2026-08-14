@@ -69,16 +69,12 @@ export default defineConfig({
   onSponsorsFetched: async (sponsors, provider) => {
     if (!providers) {
       const loadedConfig = await loadConfig();
-      providers = resolveProviders(
-        loadedConfig.providers || guessProviders(loadedConfig)
-      );
+      providers = resolveProviders(loadedConfig.providers || guessProviders(loadedConfig));
     }
     // last one
     if (provider === providers.at(-1)?.name) {
       // add more sponsors like wechat, alipay, etc.
-      consola.info(
-        `Pushed ${customSponsors.length} custom sponsors into ${provider} provider.`
-      );
+      consola.info(`Pushed ${customSponsors.length} custom sponsors into ${provider} provider.`);
       return [...sponsors, ...customSponsors];
     }
   },
