@@ -130,22 +130,6 @@ Your sponsorship means a lot to me, it will help me to actively maintain my proj
   <tr>
     <th colspan="8">
       <p>
-        <a href="https://www.bigmodel.cn/glm-coding?ic=WZQSPKGA2S" target="_blank">
-          <img src="./assets/bigmodel-logo.png" width="32px" style="vertical-align: middle; margin-right: 8px;" />
-          智谱
-        </a>
-        <span>|</span>
-        <a href="https://z.ai/subscribe?ic=SNRRNING7K" target="_blank">
-          <img src="https://z-cdn.chatglm.cn/z-ai/static/logo.svg" width="32px" style="vertical-align: middle; margin-right: 8px;" />
-          z.ai
-        </a>
-      </p>
-      <p style="font-weight: 400; color: #666; margin: 0; font-size: 14px;">一站式大模型开发平台</p>
-    </th>
-  </tr>
-  <tr>
-    <th colspan="8">
-      <p>
         <a href="https://www.mianshiya.com/vip?shareCode=yzb9ja" target="_blank">
           <img src="https://www.mianshiya.com/_next/image?url=%2Flogo.png&w=64&q=75" width="32px" style="vertical-align: middle; margin-right: 8px;" />
           程序员刷题神器面试鸭
